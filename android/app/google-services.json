@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "463443100868",
+    "project_id": "music-app-e7fcf",
+    "storage_bucket": "music-app-e7fcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463443100868:android:50802505e182a0b1713591",
+        "android_client_info": {
+          "package_name": "com.example.music_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-jUrqcvS5Zq3zRYDSSXnqaCzAM2syAiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463443100868:android:6367238f963c969d713591",
+        "android_client_info": {
+          "package_name": "com.example.painite_music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-jUrqcvS5Zq3zRYDSSXnqaCzAM2syAiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463443100868:android:1d1ab046d2266923713591",
+        "android_client_info": {
+          "package_name": "com.example.panite_music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-jUrqcvS5Zq3zRYDSSXnqaCzAM2syAiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
